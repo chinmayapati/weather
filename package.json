@@ -1,0 +1,19 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "A simple weather app to get climate data using web APIs over async HTTP requests",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinmayapati/weather.git"
+  },
+  "author": "Chinmaya Pati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinmayapati/weather/issues"
+  },
+  "homepage": "https://github.com/chinmayapati/weather#readme"
+}
